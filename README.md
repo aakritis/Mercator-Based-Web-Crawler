@@ -1,1 +1,1 @@
-# Mercator-Based-Web-Crawler
+# Mercator-Style-Web-Crawler
